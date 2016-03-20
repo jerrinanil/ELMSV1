@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta name="laaaaaayout" content="main"/>
-		<title>Welcome to Grails</title>
+		<title>Welcome to Graqweqweqsadasdasdails</title>
 		<style type="text/css" media="screen">
 			#status {
 				background-color: #eee;
